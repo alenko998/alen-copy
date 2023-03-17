@@ -1,0 +1,45 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Online course for something else ",
+      "description": "Learn web design in 1 hour with 25+ simarn web design in 1 hour with 25+ simarn web design in 1 hour with 25+ simple-to-use rules and guidelines, tons of amazing web design resources included!'",
+      "tags": "tags",
+      "email": "janecooper@example.com",
+      "departments": "departments",
+      "meta": "meta data",
+      "imageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60"
+    },
+    {
+      "id": 2,
+      "title": "Online course for something else ",
+      "description": "Learn web design in 1 hour with 25+ simarn web design in 1 hour with 25+ simarn web design in 1 hour with 25+ simple-to-use rules and guidelines, tons of amazing web design resources included!'",
+      "tags": "tags",
+      "email": "janecooper@example.com",
+      "departments": "departments",
+      "meta": "meta data",
+      "imageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60"
+    },
+    {
+      "id": 3,
+      "title": "Online course for something else ",
+      "description": "Learn web design in 1 hour with 25+ simarn web design in 1 hour with 25+ simarn web design in 1 hour with 25+ simple-to-use rules and guidelines, tons of amazing web design resources included!'",
+      "tags": "tags",
+      "email": "janecooper@example.com",
+      "departments": "departments",
+      "meta": "meta data",
+      "imageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60"
+    },
+    {
+      "id": 4,
+      "title": "Online course for something else ",
+      "description": "Learn web design in 1 hour with 25+ simarn web design in 1 hour with 25+ simarn web design in 1 hour with 25+ simple-to-use rules and guidelines, tons of amazing web design resources included!'",
+      "tags": "tags",
+      "email": "janecooper@example.com",
+      "departments": "departments",
+      "meta": "meta data",
+      "imageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60"
+    }
+   
+  ]
+}
